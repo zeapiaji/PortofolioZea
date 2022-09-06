@@ -895,6 +895,42 @@ section {
   fill: #1e7e2b;
 }
 
+.services .iconbox-bootstrap i {
+  color: #795da3;
+}
+
+.services .iconbox-bootstrap:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-bootstrap:hover .icon path {
+  fill: #795da3;
+}
+
+.services .iconbox-laravel i {
+  color:rgb(249, 50, 44);
+}
+
+.services .iconbox-laravel:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-laravel:hover .icon path {
+  fill:rgb(249, 50, 44);
+}
+
+.services .iconbox-git i {
+  color: #ff6600;
+}
+
+.services .iconbox-git:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-git:hover .icon path {
+  fill: #ff6600;
+}
+
 .services .iconbox-green i {
   color: #29af00;
 }
